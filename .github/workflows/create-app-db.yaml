@@ -6,7 +6,7 @@ on:
         required: true
         description: "Repository organization"
         type: string
-        default: "devopsparadox"
+        default: "idp-demo-jw"
       repo-user:
         required: true
         description: "Repository user"
